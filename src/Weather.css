@@ -1,0 +1,45 @@
+.weather-app {
+  max-width: 650px;
+  margin: 0px auto;
+}
+
+.weather-app .h1 {
+  font-size: 48px;
+}
+
+.weather-app .form-control {
+  padding: 50px, 0px;
+}
+
+.current-temperature {
+  font-size: 28px;
+  color: #16697a;
+}
+.weather-app .current-date {
+  margin: 0;
+  padding: 0;
+  color: #ff6f3c;
+}
+.weather-app .unit {
+  font-size: 16px;
+}
+.weather-app .current-stats {
+  margin: 0;
+  padding: 0;
+  color: #ff6f3c;
+}
+
+.weather-app .weather-forecast {
+  text-align: center;
+  color: #ffa62b;
+}
+.weather-app .current-temperature .active {
+  color: #16697a;
+  cursor: default;
+  text-decoration: none;
+}
+.weather-app .current-temperature .active:hover {
+  color: #16697a;
+  cursor: default;
+  text-decoration: none;
+}
